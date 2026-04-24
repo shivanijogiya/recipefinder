@@ -14,7 +14,7 @@ Finding recipes manually can be time-consuming and fragmented across multiple we
 - Search recipes by **ingredients or dish name**
 - View **complete recipe details**, ingredients, and cooking instructions
 - **Responsive UI** optimized for mobile and desktop
-- Fast real-time data fetching using external API integration
+- Fast real-time data fetching using external API integration spoonacular
 - Clean, minimal, and user-friendly interface
 
 ---
