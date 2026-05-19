@@ -1,4 +1,4 @@
-# Recipe Finder – React Recipe Search App 
+# Recipe Finder – React Search App for Recipe  
 **A responsive React-powered recipe discovery platform**
 
 Recipe Finder is a lightweight web application that allows users to search for recipes using **dish names or ingredients**, view detailed cooking instructions, and explore new meal ideas through real-time API-powered results. Built using modern React practices, the application focuses on **clean UI design, efficient state management, and seamless user experience across devices**.
