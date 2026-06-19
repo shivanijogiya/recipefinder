@@ -54,3 +54,5 @@ recipe-finder/
 ## Vision 
 Recipe Finder aims to provide a simple yet powerful way for users to discover meals, experiment with new dishes, and make cooking decisions faster and interesting using an intuitive, modern web interface.
 
+A project by - shivani jogiya
+
